@@ -19,7 +19,6 @@ public class GitShortCuts
 				+ "Ctrl+B	->		Show all your branches\r\n"
 				+ "Ctrl+G	->		Go to the commit summary field\r\n"
 				+ "Ctrl+Enter	->	Commit changes when summary or description field is active\r\n"
-				+ "Space	->		Select or deselect all highlighted files\r\n"
 				+ "Ctrl+Shift+N	->	Create a new branch");
 	}
 
